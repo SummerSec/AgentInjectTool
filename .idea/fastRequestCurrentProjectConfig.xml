@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentProjectConfig">
+    <option name="domain" value="http://localhost:9080/" />
+    <option name="enableEnv" value="local" />
+    <option name="enableProject" value="tomcat" />
+  </component>
+</project>
