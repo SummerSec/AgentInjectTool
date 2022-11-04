@@ -32,7 +32,7 @@
 使用方法：
 
 ```shell
-java -jar AgentInjectTool.jar inject pid /helloshell /helloshell 为内存吗连接路径
+java -jar AgentInjectTool.jar inject pid /helloshell /helloshell 为内存马连接路径
 ```
 
 ![image-20221104112011103](https://raw.githubusercontent.com/SummerSec/Images/main/202211/202211041120533.png)
