@@ -60,7 +60,9 @@ public class Main {
         System.out.println("java -jar AgentInjectTool.jar list\n" +
                 "java -jar AgentInjectTool.jar inject targetPid outFile\n" +
                 "\t\tjava -jar AgentInjectTool.jar inject 19716 c:/windows/temp/databaseconn.txt\n" +
-                "\t\tjava -jar AgentInjectTool.jar inject 19716 shiro_keys \n");
+                "\t\tjava -jar AgentInjectTool.jar inject 19716 shiro_keys \n" +
+                "\t\tjava -jar AgentInjectTool.jar inject 19716 /shellPath \n"
+        );
     }
     // 获取代理jar包的路径
     public static String getJarFileByClass(Class cs) {
