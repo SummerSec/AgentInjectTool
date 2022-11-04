@@ -18,7 +18,23 @@
 ## 📝 TODO
 
 * [ ] 添加更多小功能
-* [ ] 
+* [x] 添加 Tomcat 的 ApplicationFilterChain 内存马，兼容所有的 Tomcat 版本
+
+
+
+---
+
+## :tada: 更新日志
+
+
+
+ 2022/11/04 添加 Tomcat 的 ApplicationFilterChain 内存马，兼容所有的 Tomcat 版本
+
+使用方法：
+
+```shell
+java -jar AgentInjectTool.jar inject pid /helloshell /helloshell 为内存吗连接路径
+```
 
 ---
 ## 🐉 来龙去脉
