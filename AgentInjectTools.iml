@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javassist-3.23.1-GA" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
   </component>
 </module>
